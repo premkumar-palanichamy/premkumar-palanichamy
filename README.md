@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 
 
-![Prem's github stats](https://github-readme-stats.vercel.app/api?username=premkumar-palanichamy&role=OWNER&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Prem's github stats](https://github-readme-stats.vercel.app/api?username=premkumar-palanichamy&role=OWNER,ADMIN&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
