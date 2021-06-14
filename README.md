@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 
-![Prem's github stats](https://github-readme-stats.vercel.app/api?username=premkumar-palanichamy,Premkumarcandy&role=OWNER,ADMIN,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical&show_icons=true)
+![Prem's github stats](https://github-readme-stats.vercel.app/api?username=premkumar-palanichamy&role=OWNER,ADMIN,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical&show_icons=true)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar-palanichamy&" alt="premkumar-palanichamy" /></p>
