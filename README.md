@@ -49,9 +49,10 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-premkumar.palanichamy@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:premkumar.palanichamy@yahoo.com)](mailto:premkumar.palanichamy@yahoo.com)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar-palanichamy&" alt="premkumar-palanichamy" /></p>
-
 
 
 
 ![Prem's github stats](https://github-readme-stats.vercel.app/api?username=premkumar-palanichamy&role=OWNER,ADMIN,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical&show_icons=true)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar-palanichamy&" alt="premkumar-palanichamy" /></p>
