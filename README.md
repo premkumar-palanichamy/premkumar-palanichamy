@@ -56,7 +56,6 @@ _I'm a software engineer who loves to automate the things. Begin a software gene
 
 
 ### __Things I like to do, apart from career and academic :scorpius:__
-
 - I like to take my :bike: **cycle** off road
 - :video_game: Always behind the triggers to kick some a^^ to top the heroic grade :superhero:
 - :desktop_computer:my thirst for knowledge is always high, which actually keeps me to learn and experiment new things
