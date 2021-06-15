@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available under different Organization name _devopshubproject_ [https://github.com/devopshubproject](https://github.com/devopshubproject)
 
 - Some of my demo's and work videos can be found under the below youtube channel. Eventho it is not at the best at this moment, I can ensure that it will be there to that mark a day soon  :pray: :soon: :soon: :soon:
-[![Youtube Badge](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/channel/UCJsGNWE3KQgURjz2sdMDZwA/featured)
+
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJsGNWE3KQgURjz2sdMDZwA/featured)
 
 - 💬 Ask me about **Cloud, Kubernetes, Shell Scripting, Terraform, DevOps**
 
