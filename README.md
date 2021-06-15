@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### _Welkom to my profile_
 
-<img align="right" src="./Images/MeMe.png" width="200" height="300">
+<img align="right" src="./Images/MeMe.png" width="250" height="300">
 
 <h3 align="center">A passionate DevOps Consultant from India living in Netherlands</h3>
 
@@ -42,7 +42,7 @@ _I'm a software engineer who loves to automate the things. Begin a software gene
 
 
 
-<img align="center" src="./Images/youre-a-good-man.jpg" width="750" height="150">
+![good-man](./Images/youre-a-good-man.jpg)
 
 
 ### :metal: :octocat: Work of mine - What I do or learn now? :metal: :octocat:
