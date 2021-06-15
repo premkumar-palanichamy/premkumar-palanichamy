@@ -40,9 +40,8 @@ _I'm a software engineer who loves to automate the things. Begin a software gene
 * :evergreen_tree: Go green person always :raising_hand_man:
 
 
-### :metal: :octocat: Work of mine - What I do or learn now? :metal: :octocat:
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premkumar-palanichamy" alt="premkumar-palanichamy" /></a> </p> -->
 
+### :metal: :octocat: Work of mine - What I do or learn now? :metal: :octocat:
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Python Programming with Flask Module**
@@ -86,6 +85,6 @@ _I'm a software engineer who loves to automate the things. Begin a software gene
 
 
 ![Prem's github stats](https://github-readme-stats.vercel.app/api?username=premkumar-palanichamy&role=OWNER,ADMIN,ORGANIZATION_MEMBER,OUTSIDE_COLLABORATOR,COLLABORATOR&theme=radical&show_icons=true)
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premkumar-palanichamy" alt="premkumar-palanichamy" /></a> </p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar-palanichamy&" alt="premkumar-palanichamy" /></p>
