@@ -21,6 +21,17 @@ Here are some ideas to get you started:
 
 #### _Welkom to my profile_
 
+_I'm a software engineer who loves to automate the things. Begin a software generalist I like to experiment many technologies to find a solution to solve the business problems and to facilitate business to handle it. Skilled at cloud, container, devops, scripting, IaC and automation. Also a self taught coder \`still learning\`
+
+## *In a Nutshell about me* :star2: :star: :star_struck: :star: :star2:
+
+* :man_technologist: Self learner
+* :man_student: Team Player
+* :person_fencing: Focused
+* :man_scientist: Smart Worker
+* :bearded_person: Community contributor "Strongly believe - learn & grow togehter"
+* :evergreen_tree: Go green person always :raising_hand_man:
+
 <img align="right" src="./Images/MeMe.png" width="300" height="300">
 
 <h3 align="center">A passionate DevOps Consultant from India living in Netherlands</h3>
