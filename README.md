@@ -42,7 +42,7 @@ _I'm a software engineer who loves to automate the things. Begin a software gene
 
 
 
-<img align="center" src="./Images/youre-a-good-man.jpeg">
+<img align="center" src="./Images/youre-a-good-man.jpg" width="750" height="150">
 
 
 ### :metal: :octocat: Work of mine - What I do or learn now? :metal: :octocat:
