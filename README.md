@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif", I'm Prem</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Prem </h1>
+#### _Welkom to my profile_
 
 <img align="right" src="./Images/MeMe.png" width="300" height="300">
 
