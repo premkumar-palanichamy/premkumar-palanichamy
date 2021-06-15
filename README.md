@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 _I'm a software engineer who loves to automate the things. Begin a software generalist I like to experiment many technologies to find a solution to solve the business problems and to facilitate business to handle it. Skilled at cloud, container, devops, scripting, IaC and automation. Also a self taught coder \`still learning\`_
 
-## *In a Nutshell about me* :star2: :star: :star_struck: :star: :star2:
+### *In a Nutshell about me* :star2: :star: :star_struck: :star: :star2:
 
 * :man_technologist: Self learner
 * :man_student: Team Player
@@ -39,6 +39,8 @@ _I'm a software engineer who loves to automate the things. Begin a software gene
 * :bearded_person: Community contributor "Strongly believe - learn & grow togehter"
 * :evergreen_tree: Go green person always :raising_hand_man:
 
+
+### :metal: :octocat: Work of mine - What I do or learn now? :metal: :octocat:
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premkumar-palanichamy" alt="premkumar-palanichamy" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -51,17 +53,17 @@ _I'm a software engineer who loves to automate the things. Begin a software gene
 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJsGNWE3KQgURjz2sdMDZwA/featured)
 
-- 💬 Ask me about **Cloud, Kubernetes, Shell Scripting, Terraform, DevOps**
+- 💬  Ask me about **Cloud, Kubernetes, Shell Scripting, Terraform, DevOps**
 
 
-__Things I like to do, apart from career and academic :scorpius:__
+### __Things I like to do, apart from career and academic :scorpius:__
 
 - I like to take my :bike: **cycle** off road
 - :video_game: Always behind the triggers to kick some a^^ to top the heroic grade :superhero:
 - :desktop_computer:my thirst for knowledge is always high, which actually keeps me to learn and experiment new things
 - :cricket: Cricket lover
 
-__New Interest 💲Cryptocurrency__
+### __New Interest 💲Cryptocurrency__
 
 > Need help:
 
