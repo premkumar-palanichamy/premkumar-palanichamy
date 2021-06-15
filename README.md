@@ -42,7 +42,7 @@ _I'm a software engineer who loves to automate the things. Begin a software gene
 
 
 
-![good-man](./Images/youre-a-good-man.jpg)
+![good-man](https://images.app.goo.gl/psz9Xp3VigkWm1o87)
 
 
 ### :metal: :octocat: Work of mine - What I do or learn now? :metal: :octocat:
