@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 <img align="right" src="./Images/MeMe.png" width="250" height="300">
 
-<h3 align="center">A passionate DevOps Consultant from India living in Netherlands</h3>
+<h3 align="center">A passionate DevOps Consultant from India living in The Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premkumar-palanichamy&label=Profile%20views&color=0e75b6&style=flat" alt="premkumar-palanichamy" /> </p>
 
 
-_I'm a software engineer who loves to automate the things. Begin a software generalist I like to experiment many technologies to find a solution to solve the business problems and to facilitate business to handle it. Skilled at cloud, container, devops, scripting, IaC and automation. Also a self taught coder \`still learning\`_
+_I'm a software engineer who loves to automate the things. Begin a software generalist I like to experiment many technologies to find a solution to solve the business problems and facilitate business to handle it easily. Skilled at cloud, container, devops, scripting, IaC and automation. Also a self taught coder \`still learning\`_
 
 ### *In a Nutshell about me* :star2: :star: :star_struck: :star: :star2:
 
@@ -50,9 +50,9 @@ _I'm a software engineer who loves to automate the things. Begin a software gene
 
 - 🌱 I’m currently learning **Python Programming with Flask Module**
 
-- 👨‍💻 All of my projects are available under different Organization name _devopshubproject_ [https://github.com/devopshubproject](https://github.com/devopshubproject)
+- 👨‍💻 All my projects are available under different Organization name _devopshubproject_ [https://github.com/devopshubproject](https://github.com/devopshubproject)
 
-- Some of my demo's and work videos can be found under the below youtube channel. Eventho it is not at the best at this moment, I can ensure that it will be there to that mark a day soon  :pray:  :soon: :soon: :soon:
+- Some of my demo and work videos can be found under the below youtube channel. Eventho it is not at its best, I can ensure that it will reach the top mark a day soon  :pray:  :soon: :soon: :soon:
 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJsGNWE3KQgURjz2sdMDZwA/featured)
 
@@ -70,7 +70,7 @@ _I'm a software engineer who loves to automate the things. Begin a software gene
 
 > *Need help:*
 
-* In setting a mining farm, pls free to reach out for supporting hand :raised_hand:
+* I'm current learning and doing research on setting up a mining farm, pls free to reach out for supporting hand :raised_hand:
 
 
 <h3 align="left">Languages and Tools:</h3>
